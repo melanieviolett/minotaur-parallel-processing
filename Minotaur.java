@@ -1,6 +1,6 @@
 import java.util.concurrent.ThreadLocalRandom;
 
-class Minotaur {
+public class Minotaur {
    
     private static int manager = 0;
     private static int managerCount = 0;
